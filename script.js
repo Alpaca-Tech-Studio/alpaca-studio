@@ -164,6 +164,8 @@ function setupMouseInteraction() {
 setupMouseInteraction();
 
 // Funzione per l'aggiunta del testo al renderer
+
+/*
 function addTextToRenderer(event) {
     const context = event.source.context;
     const text = "Made with ❤️ by Alpaca Studio S.R.L. SB";
@@ -184,7 +186,7 @@ function addTextToRenderer(event) {
 }
 MatterJS.Events.on(render, 'afterRender', addTextToRenderer);
 
-
+*/
 
 
 // =======================================================
